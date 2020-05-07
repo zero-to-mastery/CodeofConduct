@@ -74,3 +74,9 @@ Code of Conduct moderators will:
  - Make an effort to understand both sides of the situation.
  - Keep each other accountable.
  - Recuse themselves or be excused from handling an incident if they are listed as a possible Code of Conduct violator.
+ 
+ 
+ 
+ ## Sources
+ This code of conduct was adapted from [here](https://github.com/keen/community-code-of-conduct/blob/master/long-form-code-of-conduct.md)
+ 
