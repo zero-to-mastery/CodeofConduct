@@ -3,7 +3,7 @@
 ## Introduction
 The Zero To Mastery Community is dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or other identity markers. Our Code of Conduct exists because of that dedication, and we do not tolerate harassment in any form. 
 
-If you cannot be bothered to read this whole thing, here is a nice and short summary: **Be a good human, be nice, and help those that need help. This group is about learning and for improving our skills as a community in order to better ourselves. If that does not fit into what you want to talk about, there are better places on the internet for you to have those discussions. **
+If you cannot be bothered to read this whole thing, here is a nice and short summary: **Be a good human, be nice, and help those that need help. This group is about learning and for improving our skills as a community in order to better ourselves. If that does not fit into what you want to talk about, there are better places on the internet for you to have those discussions.**
 
 This Code of Conduct applies to __**EVERYONE**__ in **ALL** ZTM Community spaces, including:
  - ZTM Discord Server
