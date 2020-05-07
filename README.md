@@ -16,9 +16,9 @@ Some ZTM Community spaces may have additional rules in place, which are posted p
 Consequences for noncompliance with the Code of Conduct may include a discussion with moderators, mediation with the participant you may have harassed, or as an absolute last resort, a ban from the community.
 
 ## Behaviour
-#### Appropriate behavior contributes to the health, safety, and longevity of the Keen IO Community and includes:
+#### Appropriate behavior contributes to the health, safety, and longevity of the ZTM Community and includes:
  - Participating in an authentic and empathetic way.
- - Representing the Keen IO Community in a positive, professional way.
+ - Representing the ZTM Community in a positive, professional way.
  - Using welcoming and inclusive language.
  - Exercising consideration and respect in your speech and actions.
  - Refraining from demeaning, discriminatory, or harassing behavior and speech.
