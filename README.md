@@ -53,7 +53,7 @@ Consequences for noncompliance with the Code of Conduct may include a discussion
  - Other conduct which could reasonably be considered inappropriate in a professional setting.
  - Advocating for, or encouraging, any of the above behavior.
  
- ### Reporting Procedure
+ ## Reporting Procedure
  If you experience or witness (or have experienced or have witnessed) violations of the Code of Conduct or have any other concerns, please notify a member of the `Management Team` or `Star Mentors` on Discord, Reports of Code of Conduct violations should include as many details as possible, for example:
  - Discord handles of people involved
  - When and which channel(s) it happened
@@ -62,12 +62,12 @@ Consequences for noncompliance with the Code of Conduct may include a discussion
 
 You may also submit a report to Andrei directly, although we highly recommend making your report via the Management team on Discord for a speedier resolution. 
 
-### Enforcement
+## Enforcement
  - Participants will be asked to stop any harassing behavior are expected to comply immediately, even if participants do not agree with or fully acknowledge the behavior being reported.
 
  - If a participant violates the Code of Conduct, community moderators may take any action they deem appropriate to maintaining a welcoming environment for all participants, up to and including removing the participants messages, permissions or membership from the community. 
  
-### Moderators
+## Moderators
 Code of Conduct moderators will:
  - Behind the scenes there will always be at least two people working together to resolve violations.
  - Respond as promptly as possible to reports of violations.
