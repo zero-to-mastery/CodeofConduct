@@ -33,7 +33,8 @@ Consequences for noncompliance with the Code of Conduct may include a discussion
  - Attempting collaboration before conflict.
  - Gracefully accepting well-communicated constructive criticism.
 
-#### Harassment includes:
+#### Harassment or inappropriate behaviour includes:
+ - Spamming similar content in multiple channels and/or the posting of affiliate links.
  - Discriminatory language and actions that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, religion (or lack thereof), or other identity markers.
  - Excessive trolling or sustained, uninvited disruption.
  - Insults or personal attacks.
