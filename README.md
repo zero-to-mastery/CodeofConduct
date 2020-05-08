@@ -35,6 +35,7 @@ Consequences for noncompliance with the Code of Conduct may include a discussion
 
 #### Harassment or inappropriate behaviour includes:
  - Spamming similar content in multiple channels and/or the posting of affiliate links.
+ - Community/Product/Affiliate advertising and promotion is prohibited unless approved by a member of the Management Team.
  - Discriminatory language and actions that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, religion (or lack thereof), or other identity markers.
  - Excessive trolling or sustained, uninvited disruption.
  - Insults or personal attacks.
@@ -62,8 +63,6 @@ Consequences for noncompliance with the Code of Conduct may include a discussion
  - When and which channel(s) it happened
  - Detailed summary of what happened
  - Additional context / screenshots
-
-You may also submit a report to Andrei directly, although we highly recommend making your report via the Management team on Discord for a speedier resolution. 
 
 ## Enforcement
  - Participants will be asked to stop any harassing behavior are expected to comply immediately, even if participants do not agree with or fully acknowledge the behavior being reported.
